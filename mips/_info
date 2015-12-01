@@ -1,0 +1,532 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+Ealu
+Z0 w1448928165
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl
+Z6 8C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\ALU.vhd
+Z7 FC:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\ALU.vhd
+l0
+L6
+Vz1>X0Yh_i`hHg:^IGeLC30
+!s100 g=AIO`aU[iU>`@44MNO682
+Z8 OV;C;10.3d;59
+32
+Z9 !s110 1448933539
+!i10b 1
+Z10 !s108 1448933539.209000
+Z11 !s90 -reportprogress|300|-work|mips|-2002|-explicit|-stats=none|C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\ALU.vhd|
+Z12 !s107 C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\ALU.vhd|
+!i113 1
+Z13 o-work mips -2002 -explicit
+Z14 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 z1>X0Yh_i`hHg:^IGeLC30
+l18
+L16
+V[TnIZ^EkT;01JXDHNfCf`2
+!s100 24oC=2V;65]l9>iZ7a?b90
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Econtrolunit
+Z15 w1448933169
+R3
+R4
+R5
+Z16 8C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/ControlUnit.vhd
+Z17 FC:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/ControlUnit.vhd
+l0
+L4
+VaJ5DUOzZgE:=i8A9Xlhdc2
+!s100 Y9XV1YM5P<X=JVOd4TKah1
+R8
+32
+Z18 !s110 1448933543
+!i10b 1
+Z19 !s108 1448933543.053000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/ControlUnit.vhd|
+Z21 !s107 C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/ControlUnit.vhd|
+!i113 1
+Z22 o-work work -2002 -explicit
+R14
+Abehavioral
+R3
+R4
+DEx4 work 11 controlunit 0 22 aJ5DUOzZgE:=i8A9Xlhdc2
+l20
+L19
+VPmSn[<FHlOYEH9J`T=I[^0
+!s100 ]PiIeO;LULz<ESRMHY7f83
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R22
+R14
+Acontrolunit_arc
+R3
+R4
+DEx4 work 11 controlunit 0 22 45d9lbKa8h]g6R2L`^Q@X3
+l23
+L21
+VFhJJ]Jf?VcJ5W5X=iHM]W0
+!s100 ZeNW8MAMSNM<1EFz7<4Tk3
+R8
+32
+!s110 1448919528
+!i10b 1
+!s108 1448919528.902000
+R20
+R21
+!i113 1
+R22
+R14
+w1448919519
+Einstructionmemory
+Z23 w1448933536
+R1
+R2
+R3
+R4
+R5
+Z24 8C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/InstructionMemory.vhd
+Z25 FC:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/InstructionMemory.vhd
+l0
+L6
+V=HU7HG198nLU^Y6KZfN4Q2
+!s100 :dVAHf9?[oSze0[lX[[^:2
+R8
+32
+R18
+!i10b 1
+Z26 !s108 1448933543.662000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/InstructionMemory.vhd|
+Z28 !s107 C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/InstructionMemory.vhd|
+!i113 1
+R22
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 17 instructionmemory 0 22 =HU7HG198nLU^Y6KZfN4Q2
+l63
+L13
+VOBC9>T];TMc>=L]QGB<853
+!s100 QA?<I14IVZLN`;2SK8Y903
+R8
+32
+R18
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R22
+R14
+Emips
+Z29 w1448933521
+R3
+R4
+R5
+Z30 8C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\MIPS.vhd
+Z31 FC:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\MIPS.vhd
+l0
+L4
+V<Gh^_B4AM=E6e^A=1mLOT0
+!s100 n2DPo<4TI097GzHeHPLNU0
+R8
+32
+R9
+!i10b 1
+Z32 !s108 1448933539.802000
+Z33 !s90 -reportprogress|300|-work|mips|-2002|-explicit|-stats=none|C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\MIPS.vhd|
+Z34 !s107 C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\MIPS.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R4
+DEx4 work 4 mips 0 22 <Gh^_B4AM=E6e^A=1mLOT0
+l137
+L11
+V1Tnf:4^C_lD47hbOLR]532
+!s100 j]GJlSfY4Wi3AK<DWI3Ri2
+R8
+32
+R9
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R13
+R14
+Amonociclocompleto
+R3
+R4
+DEx4 work 4 mips 0 22 ORWRH69[bHI3f4>>H9Wle2
+l30
+L9
+VLDW4hn<M8S8KQ4<U8<_n@3
+!s100 =GhJC6]X=5mDzK5WGV6??2
+R8
+32
+!s110 1448919955
+!i10b 1
+!s108 1448919955.246000
+R33
+R34
+!i113 1
+R13
+R14
+w1448919763
+Emuxalu
+Z35 w1448928188
+R3
+R4
+R5
+Z36 8C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\muxALU.vhd
+Z37 FC:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\muxALU.vhd
+l0
+L4
+V@^lHaflgZRI<D>[N[QT923
+!s100 k@:d;RRfERj8R6OJM<^jA1
+R8
+32
+Z38 !s110 1448933541
+!i10b 1
+Z39 !s108 1448933541.756000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\muxALU.vhd|
+Z41 !s107 C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\muxALU.vhd|
+!i113 1
+R22
+R14
+Abehavioral
+R3
+R4
+DEx4 work 6 muxalu 0 22 @^lHaflgZRI<D>[N[QT923
+l14
+L13
+VR0CR936ZJYMK:R8:j2X6T1
+!s100 ]nGES@jg?iA8?12lKJjZU3
+R8
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R22
+R14
+Emuxmem
+Z42 w1448932295
+R3
+R4
+R5
+Z43 8C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxMem.vhd
+Z44 FC:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxMem.vhd
+l0
+L4
+VVaHUHPX:U8Df_j43VB[G[3
+!s100 XD:CBCd3MJJJYIBoZN>g40
+R8
+32
+Z45 !s110 1448933545
+!i10b 1
+Z46 !s108 1448933545.538000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxMem.vhd|
+Z48 !s107 C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxMem.vhd|
+!i113 1
+R22
+R14
+Abehavioral
+R3
+R4
+DEx4 work 6 muxmem 0 22 VaHUHPX:U8Df_j43VB[G[3
+l13
+L12
+V^MzediGBP`jZ:_OXKz<e10
+!s100 hN]e=29g5eJdJlPWn9_k;2
+R8
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R22
+R14
+Emuxpc
+Z49 w1448933081
+R3
+R4
+R5
+Z50 8C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxPC.vhd
+Z51 FC:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxPC.vhd
+l0
+L4
+VF53`7XIbM:Pa_C=TiW_[m2
+!s100 22HbmUVBZ>I[PjcYmbn2X0
+R8
+32
+Z52 !s110 1448933540
+!i10b 1
+Z53 !s108 1448933540.396000
+Z54 !s90 -reportprogress|300|-work|mips|-2002|-explicit|-stats=none|C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxPC.vhd|
+Z55 !s107 C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxPC.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R4
+DEx4 work 5 muxpc 0 22 F53`7XIbM:Pa_C=TiW_[m2
+l14
+L13
+V:90JjSB]VLh3KLANCSUl93
+!s100 UL?he_66X3;UZDXK?ZdT`0
+R8
+32
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 1
+R13
+R14
+Emuxreg
+Z56 w1448928182
+R3
+R4
+R5
+Z57 8C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxReg.vhd
+Z58 FC:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxReg.vhd
+l0
+L4
+V3WHKLT0UbJeL17J8bmWRo1
+!s100 kBz8KXB@^NGoPE;b_2:_:3
+R8
+32
+Z59 !s110 1448933544
+!i10b 1
+Z60 !s108 1448933544.303000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxReg.vhd|
+Z62 !s107 C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/muxReg.vhd|
+!i113 1
+R22
+R14
+Abehavioral
+R3
+R4
+DEx4 work 6 muxreg 0 22 3WHKLT0UbJeL17J8bmWRo1
+l13
+L12
+VW?b_Id:a9k<fX57UFGiJn1
+!s100 nKJ=j=XmNkQcG29k4BMdJ2
+R8
+32
+R59
+!i10b 1
+R60
+R61
+R62
+!i113 1
+R22
+R14
+Epc
+Z63 w1448928170
+R3
+R4
+R5
+Z64 8C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/PC.vhd
+Z65 FC:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/PC.vhd
+l0
+L4
+Vfg4Eh3mlH0A20L;_F[aD11
+!s100 iA:n9:7GHd2ZoN;Si9b^b3
+R8
+32
+R38
+!i10b 1
+Z66 !s108 1448933541.147000
+Z67 !s90 -reportprogress|300|-work|mips|-2002|-explicit|-stats=none|C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/PC.vhd|
+Z68 !s107 C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/PC.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R4
+DEx4 work 2 pc 0 22 fg4Eh3mlH0A20L;_F[aD11
+l14
+L13
+VfYQZMJ50Nn0V9m37<E:AZ3
+!s100 UaUfJdS`O:f?Sh[nQWeG]0
+R8
+32
+R38
+!i10b 1
+R66
+R67
+R68
+!i113 1
+R13
+R14
+Epcplusfour
+Z69 w1448932929
+R2
+R1
+R3
+R4
+R5
+Z70 8C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/PcPlusFour.vhd
+Z71 FC:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/PcPlusFour.vhd
+l0
+L5
+VX5ePc=kFhHiQIm_Vc=Dln3
+!s100 KA?[RdF3T[YUAW3N^=:j;2
+R8
+32
+Z72 !s110 1448933546
+!i10b 1
+Z73 !s108 1448933546.194000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/PcPlusFour.vhd|
+Z75 !s107 C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/PcPlusFour.vhd|
+!i113 1
+R22
+R14
+Abehavioral
+R2
+R1
+R3
+R4
+Z76 DEx4 work 10 pcplusfour 0 22 X5ePc=kFhHiQIm_Vc=Dln3
+l13
+L12
+Z77 VFh?d56mh?VZ?nl31VLRXH1
+Z78 !s100 ^?C`^g0WW[AMmBiA0fY>n0
+R8
+32
+R72
+!i10b 1
+R73
+R74
+R75
+!i113 1
+R22
+R14
+Ereg
+Z79 w1448933197
+R1
+R3
+R4
+R2
+R5
+Z80 8C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/Reg.vhd
+Z81 FC:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/Reg.vhd
+l0
+L6
+VC70h0aSj@UEg9`@1fi_QR0
+!s100 OE[1a69ajSX9=miVNdcJ`1
+R8
+32
+R59
+!i10b 1
+Z82 !s108 1448933544.959000
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/Reg.vhd|
+Z84 !s107 C:/Users/Gabriel/Documents/Sistemas Digitais/mips-vhdl/Reg.vhd|
+!i113 1
+R22
+R14
+Abehavioral
+R1
+R3
+R4
+R2
+DEx4 work 3 reg 0 22 C70h0aSj@UEg9`@1fi_QR0
+l58
+L19
+V<;SaJg_z<5fRH0l2MMogX3
+!s100 e^JI4Uz:SQ2`XVPiGoFoL2
+R8
+32
+R59
+!i10b 1
+R82
+R83
+R84
+!i113 1
+R22
+R14
+Eseu
+Z85 w1448928176
+R3
+R4
+R5
+Z86 8C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\SEU.vhd
+Z87 FC:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\SEU.vhd
+l0
+L4
+V[RCnQCeM`@dCPOX2AWf<00
+!s100 k?98Oe:8]X9<6I<jKW4TZ3
+R8
+32
+Z88 !s110 1448933542
+!i10b 1
+Z89 !s108 1448933542.444000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\SEU.vhd|
+Z91 !s107 C:\Users\Gabriel\Documents\Sistemas Digitais\mips-vhdl\SEU.vhd|
+!i113 1
+R22
+R14
+Abehavioral
+R3
+R4
+DEx4 work 3 seu 0 22 [RCnQCeM`@dCPOX2AWf<00
+l12
+L11
+V2eLlHJQEITRm[oK=_z>S]2
+!s100 N?R21a@^GE1>oTf_zkmmN0
+R8
+32
+R88
+!i10b 1
+R89
+R90
+R91
+!i113 1
+R22
+R14
