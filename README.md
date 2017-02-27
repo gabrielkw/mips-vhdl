@@ -26,7 +26,7 @@ de Sistemas Digitais 2016/2.
 ### Add (com overflow)
 Adiciona dois registros, estende sinal de largura de registro.
 
-        0000 00ss ssst tttt dddd d000 0010 0000
+`0000 00ss ssst tttt dddd d000 0010 0000`
 
 Sintaxe: `ADD $1,$2,$3`  
 Significado: `$1 = $2 + $3 (signed)`  
@@ -36,7 +36,7 @@ format `R`, opcode `0`, funct `20` _(16)_
 Vai para a instrução no endereço especificado se os dois registradores tiverem
 o mesmo valor.
 
-        0001 00ss ssst tttt iiii iiii iiii iiii
+`0001 00ss ssst tttt iiii iiii iiii iiii`
 
 Sintaxe: `BEQ $1,$2,OFFSET`  
 Significado: `if ($1 == $2) go to PC+4+OFFSET`  
@@ -45,7 +45,7 @@ format `I`
 ### Set on less than (signed)
 Testa se um registrador é menor do que o outro.
 
-        0000 00ss ssst tttt dddd d000 0010 1010
+`0000 00ss ssst tttt dddd d000 0010 1010`
 
 Sintaxe: `SLT $1,$2,$3`  
 Significado: `$1 = ($2 < $3)`  
@@ -54,7 +54,7 @@ format `R`
 ### Add immediate (com overflow)
 Adiciona dois registros, estende sinal de largura de registro.
 
-        0010 00ss ssst tttt iiii iiii iiii iiii
+`0010 00ss ssst tttt iiii iiii iiii iiii`
 
 Sintaxe: `ADDI $1,$2,CONST`  
 Significado: `$1 = $2 + CONST (signed)`  
@@ -64,7 +64,7 @@ format `I`, opcode `8` _(16)_
 Carrega a termo armazenada a partir de: `Memória[$2+OFFSET]` e os seguintes 3
 bytes.
 
-        1000 11ss ssst tttt iiii iiii iiii iiii
+`1000 11ss ssst tttt iiii iiii iiii iiii`
 
 Sintaxe: `LW $1,OFFSET($2)`  
 Significado: `$1 = Memória[$2+OFFSET]`  
@@ -72,7 +72,7 @@ format `I`, funct `23` _(16)_
 
 ### Store word
 
-        1010 11ss ssst tttt iiii iiii iiii iiii
+`1010 11ss ssst tttt iiii iiii iiii iiii`
 
 Armazena um termo em: `Memória[$2+OFFSET]` e os seguintes 3 ​​bytes. A ordem dos
 operadores é uma grande fonte de confusão.
